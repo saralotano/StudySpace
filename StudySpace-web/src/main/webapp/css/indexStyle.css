@@ -1,0 +1,16 @@
+#logo{
+    width:20%;
+}
+
+#login-button{
+    background-color: #73ADE3;
+}
+
+form{
+    width: 35%;
+    text-align: center;
+}
+
+body{
+    text-align: -webkit-center;
+}

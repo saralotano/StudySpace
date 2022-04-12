@@ -1,0 +1,46 @@
+#calendar{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    padding-left: 10%;
+}
+
+table{
+    width: 98%;
+    padding-right: 2%;
+}
+
+th{
+    color: #155288;
+    padding-block: 1%;
+}
+
+td{
+    padding-block: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    border: solid #b9d6f1;
+}
+
+.timeslot{
+    vertical-align: middle;
+    border: white;
+    color: #155288;
+    width: 8%;
+}
+
+input{
+    border-radius: 15px;
+    opacity: 0.7;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-color: #155288;
+}
+
+.capacity{
+    width: 50%;
+}
+
+p{
+    margin: 6px 0px;
+}
